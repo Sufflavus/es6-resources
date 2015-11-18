@@ -41,6 +41,7 @@
 - [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators) by Kyle Simpson
 
 ## Courses
+- [WatchMeCode] [Learning ES6, LIVE!](https://sub.watchmecode.net/series/learning-es6-live/)
 - [Tuts+] [Object-Oriented JavaScript With ES6](http://code.tutsplus.com/courses/object-oriented-javascript-with-es6)
 - [Pluralsight] [JavaScript Fundamentals for ES6](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
 - [Pluralsight] [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
