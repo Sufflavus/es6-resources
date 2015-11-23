@@ -31,6 +31,7 @@
 - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) by Nicolas G. Bevacqua
 - [ECMAScript 6 (ES6): What’s New In The Next Version Of JavaScript](http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/) By Lars Kappert
+- [Top 10 ES6 Features Every Busy JavaScript Developer Must Know](http://webapplog.com/es6/)
 
 ### ES6 In Depth
 - [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) by Mozilla Hacks
@@ -39,6 +40,7 @@
 - [esnext](http://www.2ality.com/search/label/esnext) by Dr. Axel Rauschmayer
 - [JavaScript Iterators and Generators](http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-generators/) by R. Mark Volkmann
 - [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators) by Kyle Simpson
+- [Finitely Iterating Infinite Data With ES6 Generators](http://derickbailey.com/2015/11/18/finitely-iterating-infinite-data-with-es6-generators/) by Derick Bailey
 
 ## Courses
 - [WatchMeCode] [Learning ES6, LIVE!](https://sub.watchmecode.net/series/learning-es6-live/)
