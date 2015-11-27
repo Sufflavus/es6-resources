@@ -18,6 +18,7 @@
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6) by Nicholas C. Zakas. [Read online](https://leanpub.com/understandinges6/read)
 - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix) by Reg “raganwald” Braithwaite. [Read online](https://leanpub.com/javascriptallongesix/read)
 - [You Don't Know JS: ES6 & Beyond](http://shop.oreilly.com/product/0636920033769.do) by Kyle Simpson
+- [What Every JavaScript Developer Should Know About ECMAScript 2015](http://www.amazon.com/gp/product/B018D12X0C) by K. Scott Allen
 
 ##Articles & Tutorials
 ### Getting started
