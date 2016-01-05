@@ -55,8 +55,8 @@
   * [#168 The Future of JavaScript with Jafar Husain](https://devchat.tv/js-jabber/168-jsj-the-future-of-javascript-with-jafar-husain)
   * [#171 Babel with Sebastian McKenzie](https://devchat.tv/js-jabber/171-jsj-babel-with-sebastian-mckenzie)  
 
-## Contributing
-Contributions welcome! Please make an individual pull request for each suggestion.
+## Katas
+- [ES6 Katas](http://es6katas.org)
 
 ## LICENSE
 [The MIT License](https://github.com/Sufflavus/es6-resources/blob/master/LICENSE)
