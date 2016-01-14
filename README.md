@@ -22,6 +22,7 @@
 
 ##Articles & Tutorials
 ### Getting started
+- [How to Learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.rusgxtjay) by Eric Elliott
 - [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html) by Dr. Axel Rauschmayer
 - [Tuts+] [Use ECMAScript 6 Today](http://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582) by Sayanee Basu
 
