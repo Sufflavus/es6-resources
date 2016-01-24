@@ -35,6 +35,7 @@
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) by Nicolas G. Bevacqua
 - [ECMAScript 6 (ES6): What’s New In The Next Version Of JavaScript](http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/) By Lars Kappert
 - [Top 10 ES6 Features Every Busy JavaScript Developer Must Know](http://webapplog.com/es6/)
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 ### ES6 In Depth
 - [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) by Mozilla Hacks
