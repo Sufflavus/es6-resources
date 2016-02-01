@@ -27,6 +27,7 @@
 - [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html) by Dr. Axel Rauschmayer
 - [Tuts+] [Use ECMAScript 6 Today](http://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582) by Sayanee Basu
 - [Building ES6 Javascript for the Browser with Gulp, Babel, and More](https://thesocietea.org/2016/01/building-es6-javascript-for-the-browser-with-gulp-babel-and-more/)
+- [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6)
 
 ### Feature lists
 - [Learn ES2015. A detailed overview of ECMAScript 6 features](https://babeljs.io/docs/learn-es2015/)
