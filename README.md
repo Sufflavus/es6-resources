@@ -10,6 +10,7 @@
 - ES6 to JavaScript compilers
   * [Babel](https://babeljs.io/)
   * [Traceur](https://github.com/google/traceur-compiler)
+  * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016) by Sam Saccone
 - [Scratch JS](https://github.com/richgilbank/Scratch-JS) Chrome DevTools extension
 - [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools) by Addy Osmani
 
