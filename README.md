@@ -49,6 +49,7 @@
 - [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators) by Kyle Simpson
 - [Finitely Iterating Infinite Data With ES6 Generators](http://derickbailey.com/2015/11/18/finitely-iterating-infinite-data-with-es6-generators/) by Derick Bailey
 - [Object-Oriented JavaScript — A Deep Dive into ES6 Classes](http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/) by Jeff Mott
+- [Introducing ES2015 Proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies) by Addy Osmani
 
 ## Courses
 - [WatchMeCode] [Learning ES6, LIVE!](https://sub.watchmecode.net/series/learning-es6-live/)
