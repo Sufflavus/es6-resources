@@ -29,6 +29,7 @@
 - [Tuts+] [Use ECMAScript 6 Today](http://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582) by Sayanee Basu
 - [Building ES6 Javascript for the Browser with Gulp, Babel, and More](https://thesocietea.org/2016/01/building-es6-javascript-for-the-browser-with-gulp-babel-and-more/)
 - [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6)
+- [Use ECMAScript 6 NOW](https://blog.isomr.co/use-ecmascript-6-now/) by Shreyansh Pandey
 
 ### Feature lists
 - [Learn ES2015. A detailed overview of ECMAScript 6 features](https://babeljs.io/docs/learn-es2015/)
@@ -50,6 +51,7 @@
 - [Finitely Iterating Infinite Data With ES6 Generators](http://derickbailey.com/2015/11/18/finitely-iterating-infinite-data-with-es6-generators/) by Derick Bailey
 - [Object-Oriented JavaScript — A Deep Dive into ES6 Classes](http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/) by Jeff Mott
 - [Introducing ES2015 Proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies) by Addy Osmani
+- [ES6 Math Functions You Can Use Today](https://dzone.com/articles/introducing-javascripts-math-functions) by Josh Anderson
 
 ## Courses
 - [WatchMeCode] [Learning ES6, LIVE!](https://sub.watchmecode.net/series/learning-es6-live/)
