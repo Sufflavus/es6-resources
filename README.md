@@ -21,6 +21,7 @@
 - [You Don't Know JS: ES6 & Beyond](http://shop.oreilly.com/product/0636920033769.do) by Kyle Simpson. [Read online](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 - [What Every JavaScript Developer Should Know About ECMAScript 2015](http://www.amazon.com/gp/product/B018D12X0C) by K. Scott Allen
 - [Setting up ES6](https://leanpub.com/setting-up-es6) by Axel Rauschmayer. [Read online](https://leanpub.com/setting-up-es6/read)
+- [Learning JavaScript, 3rd Edition](http://shop.oreilly.com/product/0636920035534.do) by Ethan Brown
 
 ##Articles & Tutorials
 ### Getting started
