@@ -54,6 +54,7 @@
 - [Introducing ES2015 Proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies) by Addy Osmani
 - [ES6 Math Functions You Can Use Today](https://dzone.com/articles/introducing-javascripts-math-functions) by Josh Anderson
 - [Managing the private data of ES6 classes](http://www.2ality.com/2016/01/private-data-classes.html) by Dr. Axel Rauschmayer
+- [Performance of ES6 features relative to the ES5 baseline operations per second](https://kpdecker.github.io/six-speed/)
 
 ## Courses
 - [WatchMeCode] [Learning ES6, LIVE!](https://sub.watchmecode.net/series/learning-es6-live/)
