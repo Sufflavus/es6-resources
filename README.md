@@ -56,6 +56,9 @@
 - [Managing the private data of ES6 classes](http://www.2ality.com/2016/01/private-data-classes.html) by Dr. Axel Rauschmayer
 - [Performance of ES6 features relative to the ES5 baseline operations per second](https://kpdecker.github.io/six-speed/)
 
+## Videos
+- [5 Tips To Improve Your JS with ES6 - Crater Conf Talk](https://www.youtube.com/watch?v=edq4dt98Mpg) by Derick Bailey
+
 ## Courses
 - [WatchMeCode] [Learning ES6, LIVE!](https://sub.watchmecode.net/series/learning-es6-live/)
 - [Tuts+] [Object-Oriented JavaScript With ES6](http://code.tutsplus.com/courses/object-oriented-javascript-with-es6)
