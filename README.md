@@ -31,6 +31,7 @@
 - [Building ES6 Javascript for the Browser with Gulp, Babel, and More](https://thesocietea.org/2016/01/building-es6-javascript-for-the-browser-with-gulp-babel-and-more/)
 - [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6)
 - [Use ECMAScript 6 NOW](https://blog.isomr.co/use-ecmascript-6-now/) by Shreyansh Pandey
+- [Let’s Learn ES2015](https://css-tricks.com/lets-learn-es2015/) by Ryan Christiani
 
 ### Feature lists
 - [Learn ES2015. A detailed overview of ECMAScript 6 features](https://babeljs.io/docs/learn-es2015/)
@@ -58,6 +59,7 @@
 
 ## Videos
 - [5 Tips To Improve Your JS with ES6 - Crater Conf Talk](https://www.youtube.com/watch?v=edq4dt98Mpg) by Derick Bailey
+- [Let's Learn ES6](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) by Ryan Christiani
 
 ## Courses
 - [WatchMeCode] [Learning ES6, LIVE!](https://sub.watchmecode.net/series/learning-es6-live/)
