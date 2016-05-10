@@ -22,6 +22,7 @@
 - [What Every JavaScript Developer Should Know About ECMAScript 2015](http://www.amazon.com/gp/product/B018D12X0C) by K. Scott Allen
 - [Setting up ES6](https://leanpub.com/setting-up-es6) by Axel Rauschmayer. [Read online](https://leanpub.com/setting-up-es6/read)
 - [Learning JavaScript, 3rd Edition](http://shop.oreilly.com/product/0636920035534.do) by Ethan Brown
+- [The 80/20 Guide to ES2015 Generators](http://es2015generators.com/) by Valeri Karpov
 
 ##Articles & Tutorials
 ### Getting started
@@ -71,7 +72,8 @@
 ## Podcasts
 - JavaScript Jabber
   * [#168 The Future of JavaScript with Jafar Husain](https://devchat.tv/js-jabber/168-jsj-the-future-of-javascript-with-jafar-husain)
-  * [#171 Babel with Sebastian McKenzie](https://devchat.tv/js-jabber/171-jsj-babel-with-sebastian-mckenzie)  
+  * [#171 Babel with Sebastian McKenzie](https://devchat.tv/js-jabber/171-jsj-babel-with-sebastian-mckenzie) 
+  * [#210 JSJ The 80/20 Guide to ES2015 Generators with Valeri Karpov](https://devchat.tv/js-jabber/210-jsj-the-8020-guide-to-es2015-generators-with-valeri-karpov)
 
 ## Katas
 - [ES6 Katas](http://es6katas.org)
