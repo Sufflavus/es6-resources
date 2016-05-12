@@ -33,6 +33,7 @@
 - [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6)
 - [Use ECMAScript 6 NOW](https://blog.isomr.co/use-ecmascript-6-now/) by Shreyansh Pandey
 - [Let’s Learn ES2015](https://css-tricks.com/lets-learn-es2015/) by Ryan Christiani
+- [A Look at ES6 Sets](http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/) by Jaime González García
 
 ### Feature lists
 - [Learn ES2015. A detailed overview of ECMAScript 6 features](https://babeljs.io/docs/learn-es2015/)
