@@ -58,6 +58,9 @@
 - [ES6 Math Functions You Can Use Today](https://dzone.com/articles/introducing-javascripts-math-functions) by Josh Anderson
 - [Managing the private data of ES6 classes](http://www.2ality.com/2016/01/private-data-classes.html) by Dr. Axel Rauschmayer
 - [Performance of ES6 features relative to the ES5 baseline operations per second](https://kpdecker.github.io/six-speed/)
+- [How To Use Arguments And Parameters In ECMAScript 6](https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6) by Faraz Kelhini
+- [The Most In-Depth Yet Understandable ES6 Destructuring Tutorial (complete with Assembled Avengers)](http://untangled.io/in-depth-es6-destructuring-with-assembled-avengers/) by Mike Evans
+- [Using ES6 Generators And Yield To Implement Asynchronous Workflows In JavaScript](http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm) by Ben Nadel
 
 ## Videos
 - [5 Tips To Improve Your JS with ES6 - Crater Conf Talk](https://www.youtube.com/watch?v=edq4dt98Mpg) by Derick Bailey
