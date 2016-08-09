@@ -62,6 +62,7 @@
 - [The Most In-Depth Yet Understandable ES6 Destructuring Tutorial (complete with Assembled Avengers)](http://untangled.io/in-depth-es6-destructuring-with-assembled-avengers/) by Mike Evans
 - [Using ES6 Generators And Yield To Implement Asynchronous Workflows In JavaScript](http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm) by Ben Nadel
 - [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101) by Ire Aderinokun
+- [How To Use Arguments And Parameters In ECMAScript 6](https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/) By Faraz Kelhini
 
 ## Videos
 - [5 Tips To Improve Your JS with ES6 - Crater Conf Talk](https://www.youtube.com/watch?v=edq4dt98Mpg) by Derick Bailey
