@@ -23,6 +23,7 @@
 - [Setting up ES6](https://leanpub.com/setting-up-es6) by Axel Rauschmayer. [Read online](https://leanpub.com/setting-up-es6/read)
 - [Learning JavaScript, 3rd Edition](http://shop.oreilly.com/product/0636920035534.do) by Ethan Brown
 - [The 80/20 Guide to ES2015 Generators](http://es2015generators.com/) by Valeri Karpov
+- [Practical ES6](http://shop.oreilly.com/product/0636920047124.do) by Nicolas Bevacqua. [Read online](https://ponyfoo.com/books/practical-es6/)
 
 ##Articles & Tutorials
 ### Getting started
