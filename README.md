@@ -25,7 +25,7 @@
 - [The 80/20 Guide to ES2015 Generators](http://es2015generators.com/) by Valeri Karpov
 - [Practical ES6](http://shop.oreilly.com/product/0636920047124.do) by Nicolas Bevacqua. [Read online](https://ponyfoo.com/books/practical-es6/)
 
-##Articles & Tutorials
+## Articles & Tutorials
 ### Getting started
 - [How to Learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.rusgxtjay) by Eric Elliott
 - [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html) by Dr. Axel Rauschmayer
